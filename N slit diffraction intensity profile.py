@@ -13,7 +13,8 @@ a = 1
 r = 5
 #Opening width
 b = r*a
-#Make sin(x) as x
+#Make sin(x) as x for small angle approximation
+
 x = np.arange(-5,5,0.001)
 #Alpha and Beta as p and t
 p = np.pi*a*x
