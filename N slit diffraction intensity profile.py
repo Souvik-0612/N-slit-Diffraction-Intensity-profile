@@ -1,4 +1,8 @@
+#This code is created by Souvik on 06/06/22
+#Dedicated to Palash Nath Sir
+
 #Importing libraries
+
 import numpy as np
 import matplotlib.pyplot as plt
 
